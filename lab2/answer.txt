@@ -1,0 +1,1 @@
+10,000 passwords * 1,000 salts = 10,000,000 possible hash value
